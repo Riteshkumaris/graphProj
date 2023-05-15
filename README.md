@@ -1,20 +1,3 @@
-# Word Frequency Counter
-
-This is a React application that counts the frequency of words in a text file and displays the top 20 most occurring words in a histogram using the ApexCharts library. The application also provides the functionality to export the word frequency data to a CSV file.
-
-## Hosted Link
-You can try out the app at 
-```
-https://dynamic-chart.vercel.app/
-```
-
-## Dependencies
-
-- apexcharts: "^3.40.0"
-- axios: "^1.4.0"
-- react: "^18.2.0"
-- react-apexcharts: "^1.4.0"
-- react-csv: "^2.2.2"
 
 ## Installation
 
